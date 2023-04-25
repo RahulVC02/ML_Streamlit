@@ -7,5 +7,4 @@ keras
 opencv-python-headless
 streamlit
 ffmpeg
-streamlit-components
 pyarrow
