@@ -4,5 +4,5 @@ numpy
 pandas
 tensorflow
 keras
-cv2
+opencv-python
 streamlit
