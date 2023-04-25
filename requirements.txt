@@ -2,7 +2,6 @@ librosa
 matplotlib
 numpy
 pandas
-random
 tensorflow
 keras
 cv2
