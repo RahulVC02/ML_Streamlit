@@ -6,6 +6,7 @@ tensorflow
 keras
 opencv-python-headless
 streamlit
-ffmpeg
+ffmpeg-python
 pyarrow
 Pillow
+ipython
