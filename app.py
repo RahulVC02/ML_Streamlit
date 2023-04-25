@@ -4,7 +4,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import streamlit as st
-from sklearn.pipeline import make_pipeline
+# from sklearn.pipeline import make_pipeline
 import random
 import librosa
 from keras.applications.vgg16 import VGG16
